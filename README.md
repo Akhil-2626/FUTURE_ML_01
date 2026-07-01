@@ -1,4 +1,4 @@
-# FUTURE_ML_01
+# Business-sales-demand-forecasting
 Project Overview:
 
 This project predicts future sales using historical Superstore sales data. It applies feature engineering techniques such as date-based features, lag variables, rolling averages, and seasonal transformations to improve forecasting accuracy.
